@@ -1,1 +1,1 @@
-# qt_place_project
+# QT PLACE PROJECT - JAY, DEN, POLAR
